@@ -1,1 +1,0 @@
-# Exo_algo_serie2
