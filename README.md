@@ -1,24 +1,81 @@
-📚 Série d'Exercices d'Algorithmique - Série 2
-Ce dépôt contient les solutions pour la deuxième série d'exercices d'algorithmique. Chaque fichier correspond à un problème spécifique visant à renforcer la logique de programmation en C.
 
-📋 Sommaire des 10 Exercices
-Voici la liste complète des fichiers inclus dans ce projet :
+📑 LISTE DES EXERCICES DE PROGRAMMATION 💻🚀
+📥 Exo1.c : Somme et Moyenne ➕📊
 
-| Fichier | Titre / Objectif | Concepts Clés |
-| :--- | :--- | :--- |
-| Exo1.c | Somme et Moyenne | Manipulation de listes, accumulateurs |
-| Exo2.c | Recherche de Minimum/Maximum | Conditions, itération simple |
-| Exo3.c | Tri de données | Algorithmes de tri (Bulle/Insertion) |
-| Exo4.c | Inversion de chaîne | Manipulation de caractères (Strings) |
-| Exo5.c | Vérification de Palindrome | Indexation positive et négative |
-| Exo6.c | Recherche d'un élément | Recherche séquentielle dans un tableau |
-| Exo7.c | Calcul de Factorielle | Boucles for ou Récursivité |
-| Exo8.c | Table de Multiplication | Boucles imbriquées (Nested loops) |
-| Exo9.c | Nombres Premiers | Test de primalité, modulos |
-| Exo10.c | Conversion d'unités | Logique de calcul et entrées utilisateur |
+    Objectif : Calculer la somme totale et la moyenne d'une série de valeurs. 📈
 
-🧠 Notions abordées
-Boucles : for, while.
-Conditions : if, elif, else.
-Structures de données : Tableaux (Listes), Chaînes de caractères.
-Opérateurs : Arithmétiques et logiques.
+    Concepts Clés : Manipulation de listes 📜, utilisation d'accumulateurs 🏗️.
+
+    Sticker : 🧮✨
+
+🔍 Exo2.c : Recherche de Minimum / Maximum 📉📈
+
+    Objectif : Identifier la plus petite et la plus grande valeur d'un ensemble. 🕵️‍♂️
+
+    Concepts Clés : Conditions if/else ⚖️, itération simple (boucle) 🔄.
+
+    Sticker : 🔎📏
+
+🧹 Exo3.c : Tri de données 🗂️✨
+
+    Objectif : Organiser des éléments dans un ordre précis (croissant/décroissant). 🔃
+
+    Concepts Clés : Algorithmes de tri (Bulle 🫧, Insertion 📥).
+
+    Sticker : 📉✅
+
+🙃 Exo4.c : Inversion de chaîne 🔄🗣️
+
+    Objectif : Retourner un texte pour le lire à l'envers. ⏪
+
+    Concepts Clés : Manipulation de caractères (Strings) 🧵, pointeurs 📍.
+
+    Sticker : 👺🌀
+
+↔️ Exo5.c : Vérification de Palindrome 🧩
+
+    Objectif : Vérifier si un mot se lit de la même façon dans les deux sens (ex: "radar"). 🔄
+
+    Concepts Clés : Indexation positive et négative 📏, comparaison de caractères 🧐.
+
+    Sticker : 🔁🧪
+
+🎯 Exo6.c : Recherche d'un élément 🕵️
+
+    Objectif : Trouver la position d'une valeur spécifique dans un tableau. 📍
+
+    Concepts Clés : Recherche séquentielle 🚶‍♂️, itération dans un tableau 📊.
+
+    Sticker : 🎯📍
+
+🧬 Exo7.c : Calcul de Factorielle ⚡
+
+    Objectif : Calculer le produit des entiers positifs jusqu'à n (ex: 5!). 🔢
+
+    Concepts Clés : Boucles for ➰ ou Récursivité 🔄🧠.
+
+    Sticker : ⚛️🔥
+
+✖️ Exo8.c : Table de Multiplication 🔢📦
+
+    Objectif : Générer des tables de calcul complètes. 🏫
+
+    Concepts Clés : Boucles imbriquées (Nested loops) 🔄📦🔄.
+
+    Sticker : ✖️📐
+
+💎 Exo9.c : Nombres Premiers 🥇
+
+    Objectif : Déterminer si un nombre est uniquement divisible par 1 et lui-même. 🛡️
+
+    Concepts Clés : Test de primalité 🧪, opérateurs modulos % ➗.
+
+    Sticker : 👑🔢
+
+⚙️ Exo10.c : Conversion d'unités 🌡️📏
+
+    Objectif : Transformer des données d'une unité à une autre (ex: Celsius en Fahrenheit). 🔄
+
+    Concepts Clés : Logique de calcul 🧠, gestion des entrées utilisateur (Inputs) ⌨️.
+
+    Sticker : ⚙️🔄🌍
